@@ -1,6 +1,6 @@
 <div align="center">
   <kbd>
-  <a href="https://github.com/imvast/Discord-Account-Creator">
+  <a href="https://github.com/rabihpowergaming/Discord-Account-Creator">
     <img src="https://cdn.discordapp.com/attachments/1136367833597628546/1144032439816163378/Screenshot_2023-08-14_182507.png" alt="Logo" style="width: 110%; height: 110%;">
   </a>
   </kbd>
@@ -12,11 +12,11 @@
     <br />
     <a href="https://discord.com">💬 Discord</a>
     ·
-    <a href="https://github.com/PowerMaybe/Discord-Email-Verify-Token-Gen#-changelog">📜 ChangeLog</a>
+    <a href="https://github.com/rabihpowergaming/Discord-Email-Verify-Token-Gen#-changelog">📜 ChangeLog</a>
     ·
-    <a href="https://github.com/PowerMaybe/Discord-Email-Verify-Token-Gen/issues">⚠️ Report Bug</a>
+    <a href="https://github.com/rabihpowergaming/Discord-Email-Verify-Token-Gen/issues">⚠️ Report Bug</a>
     ·
-    <a href="https://github.com/PowerMaybe/Discord-Email-Verify-Token-Gen/issues">💡 Request Feature</a>
+    <a href="https://github.com/rabihpowergaming/Discord-Email-Verify-Token-Gen/issues">💡 Request Feature</a>
   </p>
 </div>
 
