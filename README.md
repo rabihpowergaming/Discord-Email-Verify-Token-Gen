@@ -34,7 +34,7 @@ publish date: 19/11/2023
 - Install the requirements: `pip install -r requirements.txt`
 - Add your proxies to `proxies.txt`
 - Edit the `config.toml` to your preference
-- Start: `python3 main.py`
+- Start: `python3 Discord-Email-Verify-Token-Gen.py`
 
 ---
 
